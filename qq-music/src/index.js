@@ -1,5 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
+import './assets/font_74bntjvs7d9/iconfont.css'
+import 'lib-flexible'
 import './index.css';
 import App from './App';
 import * as serviceWorker from './serviceWorker';
